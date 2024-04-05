@@ -17,9 +17,10 @@ int main() {
     }while(i<=num);
      printf("Total sum of numbers = %d\n",sum);
      void hello(){
-     printf("Hello");
+     printf("Hello I am function");
      }
      hello();
+     
 
     return 0;
 }
