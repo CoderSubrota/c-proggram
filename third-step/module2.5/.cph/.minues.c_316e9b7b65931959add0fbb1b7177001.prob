@@ -1,0 +1,1 @@
+{"name":"Local: minues","url":"d:\\C-Proggram\\third-step\\module2.5\\minues.c","tests":[{"id":1713311319595,"input":"9 1","output":"8"},{"id":1713311329810,"input":"9 9","output":"0"},{"id":1713311338450,"input":"1 9","output":"0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C-Proggram\\third-step\\module2.5\\minues.c","group":"local","local":true}

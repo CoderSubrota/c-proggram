@@ -1,0 +1,1 @@
+{"name":"Local: position","url":"d:\\C-Proggram\\third-step\\moduel-2.6\\position.c","tests":[{"id":1713490568820,"input":"5\n1 2 100 0 30\n","output":"A[0] = 1\nA[1] = 2\nA[3] = 0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C-Proggram\\third-step\\moduel-2.6\\position.c","group":"local","local":true}
