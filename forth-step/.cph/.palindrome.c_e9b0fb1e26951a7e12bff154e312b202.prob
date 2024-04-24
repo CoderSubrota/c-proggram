@@ -1,0 +1,1 @@
+{"name":"Local: palindrome","url":"d:\\C-Proggram\\forth-step\\palindrome.c","tests":[{"id":1713927141240,"input":"abba","output":"YES"},{"id":1713927149156,"input":"mam","output":"YES"},{"id":1713927158500,"input":"hour","output":"NO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C-Proggram\\forth-step\\palindrome.c","group":"local","local":true}
