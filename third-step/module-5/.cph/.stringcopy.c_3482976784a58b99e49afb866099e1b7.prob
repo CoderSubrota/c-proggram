@@ -1,0 +1,1 @@
+{"name":"Local: stringcopy","url":"d:\\C-Proggram\\third-step\\module-5\\stringcopy.c","tests":[{"id":1714000780729,"input":"mango lamon","output":"lamon lamon"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C-Proggram\\third-step\\module-5\\stringcopy.c","group":"local","local":true}

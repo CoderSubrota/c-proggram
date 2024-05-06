@@ -1,0 +1,1 @@
+{"name":"Local: print","url":"d:\\C-Proggram\\sixth-step\\practiceProblem\\print.c","tests":[{"id":1714630927889,"input":"5","output":"1 2 3 4 5"},{"id":1714631764136,"input":"3","output":"1 2 3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C-Proggram\\sixth-step\\practiceProblem\\print.c","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: countAlpha","url":"d:\\C-Proggram\\third-step\\module-5\\mid-term-exam\\countAlpha.c","tests":[{"id":1714206788354,"input":"2\naabbAABB1234\nCCcc12","output":"4 4 4\n2 2 2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C-Proggram\\third-step\\module-5\\mid-term-exam\\countAlpha.c","group":"local","local":true}

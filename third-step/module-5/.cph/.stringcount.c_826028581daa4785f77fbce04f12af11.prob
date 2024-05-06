@@ -1,0 +1,1 @@
+{"name":"Local: stringcount","url":"d:\\C-Proggram\\third-step\\module-5\\stringcount.c","tests":[{"id":1714014165189,"input":"aaabbccdddd","output":"a = 3\nb = 2\nc = 2\nd = 4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C-Proggram\\third-step\\module-5\\stringcount.c","group":"local","local":true}

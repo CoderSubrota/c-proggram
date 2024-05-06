@@ -1,0 +1,1 @@
+{"name":"Local: add","url":"d:\\C-Proggram\\sixth-step\\practiceProblem\\add.c","tests":[{"id":1714630431462,"input":"5 2","output":"7"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C-Proggram\\sixth-step\\practiceProblem\\add.c","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: len","url":"d:\\C-Proggram\\sixth-step\\practiceProblem\\len.c","tests":[{"id":1714696118258,"input":"hello","output":"5"},{"id":1714696306493,"input":"my","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C-Proggram\\sixth-step\\practiceProblem\\len.c","group":"local","local":true}

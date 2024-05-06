@@ -1,0 +1,1 @@
+{"name":"Local: cl","url":"d:\\C-Proggram\\third-step\\module-5\\module-2.5\\cl.c","tests":[{"id":1714037324831,"input":"cbad","output":"dd"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C-Proggram\\third-step\\module-5\\module-2.5\\cl.c","group":"local","local":true}

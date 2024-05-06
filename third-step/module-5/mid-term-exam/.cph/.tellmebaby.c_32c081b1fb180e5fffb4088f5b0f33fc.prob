@@ -1,0 +1,1 @@
+{"name":"Local: tellmebaby","url":"d:\\C-Proggram\\third-step\\module-5\\mid-term-exam\\tellmebaby.c","tests":[{"id":1714207821125,"input":"2\n2\n1 2\n2\n3\n1 2 3\n2","output":"YES\nYES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C-Proggram\\third-step\\module-5\\mid-term-exam\\tellmebaby.c","group":"local","local":true}
