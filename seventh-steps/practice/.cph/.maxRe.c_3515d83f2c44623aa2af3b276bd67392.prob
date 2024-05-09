@@ -1,0 +1,1 @@
+{"name":"Local: maxRe","url":"d:\\C-Proggram\\seventh-steps\\practice\\maxRe.c","tests":[{"id":1715226375919,"input":"4\n2 1 5 4","output":"5"},{"id":1715229296632,"input":"3\n10 44 54","output":"54"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C-Proggram\\seventh-steps\\practice\\maxRe.c","group":"local","local":true}
